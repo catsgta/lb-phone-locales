@@ -711,7 +711,7 @@
             "IMPOUND_INFO": "押収情報",
             "LOCATION": "場所",
             "SUMMON": "呼び出し",
-            "VALET": "バレー",
+            "VALET": "係員",
             "STATISTICS": "統計",
             "FUEL": "燃料",
             "ENGINE": "エンジン",
@@ -730,7 +730,7 @@
                 "PROCEED": "続行"
             },
             "VALET_POPUP": {
-                "TITLE": "バレー",
+                "TITLE": "係員",
                 "TEXT": "{model} ({plate})を呼び出しますか？",
                 "TEXT_PAID": "{model} ({plate})を{amount}で呼び出しますか？",
                 "CANCEL": "キャンセル",
